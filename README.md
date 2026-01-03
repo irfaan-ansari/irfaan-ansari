@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there 👋 I'm
 
-<!--
-**irfaan-ansari/irfaan-ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Irfaan Ansari
 
-Here are some ideas to get you started:
+I build interactive web applications using clean and scalable code that machines understand and users love.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### tech
+- JavaScript, TypeScript  
+- React, Next.js  
+- Node.js, Express.js  
+- PostgreSQL, Prisma
+- Shopify, WordPress  
+
+### focus
+- Performance & clean architecture  
+- Reusable components & systems  
+- Real-world production builds  
+
+### reach me
+- Portfolio: [irfaan.dev](https://irfaan.vercel.app/)
+- LinkedIn: [/irfaan-ansari](https://www.linkedin.com/in/irfaan-ansari/)
